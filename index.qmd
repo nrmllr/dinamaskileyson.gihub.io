@@ -11,7 +11,8 @@ about:
 
 # About me
 
-[Text]
+I am an Associate Professor of Health Inequalities and Social Policy at the [University of Luxembourg](https://www.uni.lu/en/).
+
 
 # Education
 
@@ -19,4 +20,4 @@ about:
 
 :::
 
-Thanks for checking out my web site!
+<!--Thanks for checking out my web site!-->
