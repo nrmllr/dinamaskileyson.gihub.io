@@ -1,18 +1,21 @@
 ---
-title: "About Me"
+title: "Dina Maskileyson, PhD"
 about:
   id: me
-  template: broadside
-  image: img/profile.png
+  template: trestles
+  image: img/dina.jpg
+  image-shape: round
 ---
 
 :::{#me}
 
-## Goals
+# About me
 
-## Education
+[Text]
 
-## Experience
+# Education
+
+[Text]
 
 :::
 

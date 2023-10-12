@@ -1,10 +1,17 @@
 [
   {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Dina Maskileyson, PhD\nUniversité du Luxembourg\ndina.maskileyson@uni.lu"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "About Me",
+    "title": "Dina Maskileyson, PhD",
     "section": "",
-    "text": "Thanks for checking out my web site!"
+    "text": "About me\n[Text]\n\n\nEducation\n[Text]\n\n\n\n\nThanks for checking out my web site!"
   },
   {
     "objectID": "projects.html#project-2",
@@ -19,5 +26,12 @@
     "title": "Projects",
     "section": "Project 3",
     "text": "Project 3"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Journal articles\n\nSebastian Sattler, Dina Maskileyson, Eric Racine, Eldad Davidov, and Alice Escande. 2023. ‘Stigmatization in the context of the COVID-19 pandemic: a survey experiment using attribution theory and the familiarity hypothesis’ MC Public Health 23 521. doi.org/10.1186/s12889-023-15234-5\nMoshe Semyonov, Noah-Lewin Epstein, and Dina Maskileyson. 2013. ‘Where wealth matters more for health: The wealth–health gradient in 16 countries’ Social Science & Medicine 81 10-17. doi.org/10.1016/j.socscimed.2013.01.010\n\n\n\nWorking papers"
   }
 ]

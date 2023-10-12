@@ -1,0 +1,12 @@
+---
+title: "Publications"
+---
+
+
+# Journal articles
+
+* Sebastian Sattler, **Dina Maskileyson**, Eric Racine, Eldad Davidov, and Alice Escande. 2023. 'Stigmatization in the context of the COVID-19 pandemic: a survey experiment using attribution theory and the familiarity hypothesis' *MC Public Health* 23 521. [doi.org/10.1186/s12889-023-15234-5](https://doi.org/10.1186/s12889-023-15234-5)
+
+* Moshe Semyonov, Noah-Lewin Epstein, and **Dina Maskileyson**. 2013. 'Where wealth matters more for health: The wealth–health gradient in 16 countries' *Social Science & Medicine* 81 10-17. [doi.org/10.1016/j.socscimed.2013.01.010](https://doi.org/10.1016/j.socscimed.2013.01.010)
+
+# Working papers

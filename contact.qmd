@@ -1,0 +1,12 @@
+---
+layout: archive
+title: "Contact"
+permalink: /contact/
+author_profile: true
+---
+
+Dina Maskileyson, PhD
+
+Université du Luxembourg
+
+<dina.maskileyson@uni.lu>
